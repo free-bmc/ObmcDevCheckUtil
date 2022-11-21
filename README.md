@@ -1,5 +1,3 @@
-# ObmcDevCheckUtil
-
 # OpenBMC Device Checker Utility
  
  This utility can be used by OpenBMC firmware engineers, platform builders to check which of the devices are supported, including capability to search by interfaces, devices and manufacturers
